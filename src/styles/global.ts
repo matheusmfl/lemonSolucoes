@@ -14,7 +14,7 @@ export const GlobalStyle = createGlobalStyle`
 
         
         -webkit-font-smoothing: antialiased;
-        overflow: hidden;
+        
     }
 
     body, input, textarea, button{

@@ -9,6 +9,7 @@ export function App() {
       <Header />
       <Main />
       <ProductIcons />
+
       <GlobalStyle />
     </>
   );

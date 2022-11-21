@@ -37,7 +37,7 @@ export const MainContainer = styled.main`
     border: 0;
     position: absolute;
     left: 0;
-    bottom: 0;
+    bottom: -2px;
     width: 100%;
   }
 `;

@@ -7,7 +7,7 @@ import siteAcessoria from "../../assets/iconAcessoria.svg";
 export function ProductIcons() {
   return (
     <ProductIconsContainer>
-      <div>
+      <div className="heroSection">
         <h2>Confira nossos produtos</h2>
         <span>Soluções digitais para todo tipo de empresa</span>
       </div>
