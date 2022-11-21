@@ -1,7 +1,11 @@
 import styled from "styled-components";
 
 export const HeaderContainer = styled.header`
-  background-color: #facc15;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 999;
+  background-color: transparent;
   display: flex;
   justify-content: space-between;
   align-items: center;
